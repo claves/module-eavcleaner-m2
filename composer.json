@@ -3,7 +3,7 @@
     "description": "Purpose of this project is to check for different flaws that can occur due to EAV and provide cleanup functions.",
     "require": {
         "php": "~7.3||~8.0",
-        "magento/product-community-edition": "~2.4"
+        "magento/framework": "103.0.*"
     },
     "license": "MIT",
     "type": "magento2-module",
